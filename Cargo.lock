@@ -1,0 +1,24 @@
+[root]
+name = "corroder"
+version = "0.1.0"
+dependencies = [
+ "assert_approx_eq 0.2.2 (registry+https://github.com/rust-lang/crates.io-index)",
+ "assert_matches 1.0.0 (registry+https://github.com/rust-lang/crates.io-index)",
+ "assert_ne 0.2.4 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "assert_approx_eq"
+version = "0.2.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "assert_matches"
+version = "1.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "assert_ne"
+version = "0.2.4"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
